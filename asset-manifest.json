@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FirstWebpPage/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/FirstWebpPage/static/js/main.a446977e.chunk.js",
+    "main.js.map": "/FirstWebpPage/static/js/main.a446977e.chunk.js.map",
+    "runtime-main.js": "/FirstWebpPage/static/js/runtime-main.d1bc360b.js",
+    "runtime-main.js.map": "/FirstWebpPage/static/js/runtime-main.d1bc360b.js.map",
+    "static/js/2.e10a1f8d.chunk.js": "/FirstWebpPage/static/js/2.e10a1f8d.chunk.js",
+    "static/js/2.e10a1f8d.chunk.js.map": "/FirstWebpPage/static/js/2.e10a1f8d.chunk.js.map",
+    "static/js/3.49088d96.chunk.js": "/FirstWebpPage/static/js/3.49088d96.chunk.js",
+    "static/js/3.49088d96.chunk.js.map": "/FirstWebpPage/static/js/3.49088d96.chunk.js.map",
+    "index.html": "/FirstWebpPage/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/FirstWebpPage/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.e10a1f8d.chunk.js.LICENSE.txt": "/FirstWebpPage/static/js/2.e10a1f8d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/FirstWebpPage/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1bc360b.js",
+    "static/js/2.e10a1f8d.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.a446977e.chunk.js"
+  ]
+}
